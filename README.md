@@ -1,2 +1,3 @@
 
 The goal of this project is to demonstrate the concept of hypothesis testing by investigating a claim about blue cars using a dataset from an electric car sharing service company called Autolib
+#Autolib was an electric car sharing service company in France that was operational between 2011 and 2018. The company had three types of electric cars i.e blue cars, Utilib cars and Utilib 1.4 cars. Blue cars were most popularly used. These cars were available across various cities and postal codes in France and renters could pick up cars in one station then drop them off at a different station that was closer to their destination.
